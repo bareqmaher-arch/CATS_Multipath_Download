@@ -407,3 +407,7 @@ never take the work. The reported results use seeds 1001-1100, which no design d
 Comparisons are per seed; medians carry 95% bootstrap intervals; p-values are two-sided Wilcoxon
 signed-rank, Holm-corrected over the 24 scenario x size cells. The slow-start model was added
 after CATS was frozen, and CATS was not retuned for it.
+
+## License
+
+MIT, see `LICENSE`. `vendor/plexo/` keeps its own MIT licence (`vendor/plexo/LICENSE`).
