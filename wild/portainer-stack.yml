@@ -1,0 +1,48 @@
+# The real-network experiments' server as a Portainer stack (Stacks > Add stack > Web editor),
+# for a Docker host that already runs other sites: its own nginx container on ports 18080
+# (HTTP/1.1, Plexo) and 18081 (HTTP/2 without TLS, everyone else), as testbed/nginx.conf does,
+# touching nothing else on the host. Reach it by the server's own IP, never through Cloudflare's
+# proxy: Cloudflare would end the connections itself, cache the files, and has no HTTP/2 without
+# TLS. Files are sparse (content doesn't matter, only length) under a random path.
+# The container's log prints the host kernel and whether it has MPTCP, for the later comparison.
+services:
+  cats-files:
+    image: nginx:1.27-alpine
+    restart: unless-stopped
+    # The host's own network: no Docker network to create (a host with many stacks can run out of
+    # address pools), no NAT or proxy between the sockets and the internet, and the host kernel's
+    # MPTCP setting visible. nginx listens on 18080 and 18081 of the host directly.
+    network_mode: host
+    environment:
+      PREFIX: CHANGE_ME_TO_A_RANDOM_STRING
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        set -e
+        mkdir -p /srv/files/$$PREFIX
+        for size in 20 100 200; do truncate -s "$${size}000000" /srv/files/$$PREFIX/f$$size.bin; done
+        cat > /etc/nginx/conf.d/default.conf <<EOF
+        server {
+          listen 18080;
+          root /srv/files;
+          access_log off;
+          keepalive_timeout 300s;
+          keepalive_requests 1000000;
+          sendfile on;
+          tcp_nopush on;
+          location / {}
+          location = /$$PREFIX/ip { default_type text/plain; return 200 "\$$remote_addr\n"; }
+        }
+        server {
+          listen 18081 http2;
+          root /srv/files;
+          access_log off;
+          keepalive_timeout 300s;
+          keepalive_requests 1000000;
+          sendfile on;
+          tcp_nopush on;
+          location / {}
+        }
+        EOF
+        echo "kernel $$(uname -r); mptcp $$(cat /proc/sys/net/mptcp/enabled 2>/dev/null || echo unavailable)"
+        exec nginx -g 'daemon off;'

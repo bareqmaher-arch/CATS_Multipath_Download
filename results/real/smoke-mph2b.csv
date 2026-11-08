@@ -1,0 +1,7 @@
+scenario,rttFactor,sizeMB,seed,algorithm,order,completionS,lowerBoundS,tailS,appMB,ifaceMB,meteredIfaceMB,requests,connections,splits,hedges,refreshes,failures,meanTickMs,shaperErrors,timedOut
+S0-single,1,200,9001,mph2,0,25.730,20.370,25.730,200.000,209.420,0.000,222,1,0,0,0,0,10.00,0,0
+S0-single,1,200,9001,mph2-eq,1,21.299,20.370,21.299,200.000,209.546,0.000,551,8,7,0,0,0,10.00,0,0
+S0-single,1,200,9001,plexo,2,21.560,20.370,1.657,200.000,209.140,0.000,64,8,0,0,0,0,10.00,0,0
+S1-stable,1,200,9001,mph2,0,21.800,18.670,21.800,200.000,209.428,67.749,230,2,2,0,0,0,10.00,0,0
+S1-stable,1,200,9001,mph2-eq,1,19.740,18.670,19.740,200.073,209.744,63.100,702,16,26,0,0,0,10.00,0,0
+S1-stable,1,200,9001,plexo,2,19.639,18.670,0.889,200.085,209.350,62.846,129,16,0,1,0,0,10.00,0,0

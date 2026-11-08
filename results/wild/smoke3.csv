@@ -1,0 +1,2 @@
+round,sizeMB,algorithm,order,startedAt,completionS,rttWifiMs,rttLteMs,appMB,wifiMB,lteMB,requests,connections,splits,hedges,refreshes,failures,meanTickMs,errors,timedOut
+1,20,cats8,0,2026-11-04T21:46:28.784Z,2.679,81.2,97.3,21.714,13.580,8.134,44,16,0,6,0,0,10.00,,0

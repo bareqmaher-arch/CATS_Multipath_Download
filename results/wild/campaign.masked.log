@@ -1,0 +1,571 @@
+2026-11-05 00:46:45 campaign: blocks 1-4, 12 rounds each, 1.75 h apart, sizes 20,100, cats8,cats6,cats5,plexo,rb-eq,twoway-eq,mph2-eq
+2026-11-05 00:46:46 block 1: rounds 1-12, try 1, wifi x.x.x.x, phone x.x.x.x
+2026-11-05 00:46:47   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 00:46:53   round 1 20 MB rb-eq: 2.02 s, rtt 79/98 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 0.01 GB
+2026-11-05 00:46:57   round 1 20 MB twoway-eq: 2.03 s, rtt 79/98 ms, lte 8.0 MB, tick 10.0 ms; cellular so far 0.02 GB
+2026-11-05 00:47:01   round 1 20 MB cats5: 2.46 s, rtt 79/98 ms, lte 10.7 MB, tick 10.0 ms; cellular so far 0.03 GB
+2026-11-05 00:47:05   round 1 20 MB mph2-eq: 2.03 s, rtt 79/98 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 0.03 GB
+2026-11-05 00:47:09   round 1 20 MB cats8: 2.25 s, rtt 79/98 ms, lte 8.7 MB, tick 10.0 ms; cellular so far 0.04 GB
+2026-11-05 00:47:14   round 1 20 MB plexo: 2.27 s, rtt 79/98 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 0.05 GB
+2026-11-05 00:47:18   round 1 20 MB cats6: 2.22 s, rtt 79/98 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 0.06 GB
+2026-11-05 00:47:31   round 1 100 MB twoway-eq: 8.64 s, rtt 80/98 ms, lte 40.4 MB, tick 10.0 ms; cellular so far 0.10 GB
+2026-11-05 00:47:42   round 1 100 MB cats5: 9.75 s, rtt 80/98 ms, lte 40.8 MB, tick 10.1 ms; cellular so far 0.14 GB
+2026-11-05 00:47:55   round 1 100 MB cats6: 10.98 s, rtt 80/98 ms, lte 36.8 MB, tick 10.0 ms; cellular so far 0.18 GB
+2026-11-05 00:48:04   round 1 100 MB cats8: 6.84 s, rtt 80/98 ms, lte 37.2 MB, tick 10.0 ms; cellular so far 0.21 GB
+2026-11-05 00:48:15   round 1 100 MB mph2-eq: 8.43 s, rtt 80/98 ms, lte 40.2 MB, tick 10.0 ms; cellular so far 0.25 GB
+2026-11-05 00:48:25   round 1 100 MB rb-eq: 7.93 s, rtt 80/98 ms, lte 41.3 MB, tick 10.0 ms; cellular so far 0.30 GB
+2026-11-05 00:48:36   round 1 100 MB plexo: 9.08 s, rtt 80/98 ms, lte 44.1 MB, tick 10.0 ms; cellular so far 0.34 GB
+2026-11-05 00:48:42   round 2 20 MB plexo: 2.21 s, rtt 84/96 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 0.35 GB
+2026-11-05 00:48:46   round 2 20 MB rb-eq: 2.47 s, rtt 84/96 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 0.36 GB
+2026-11-05 00:48:51   round 2 20 MB cats8: 2.52 s, rtt 84/96 ms, lte 5.8 MB, tick 10.0 ms; cellular so far 0.36 GB
+2026-11-05 00:48:55   round 2 20 MB cats5: 2.34 s, rtt 84/96 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 0.37 GB
+2026-11-05 00:49:00   round 2 20 MB cats6: 3.00 s, rtt 84/96 ms, lte 4.3 MB, tick 10.0 ms; cellular so far 0.37 GB
+2026-11-05 00:49:04   round 2 20 MB mph2-eq: 2.11 s, rtt 84/96 ms, lte 7.3 MB, tick 10.0 ms; cellular so far 0.38 GB
+2026-11-05 00:49:09   round 2 20 MB twoway-eq: 2.52 s, rtt 84/96 ms, lte 8.9 MB, tick 10.0 ms; cellular so far 0.39 GB
+2026-11-05 00:49:22   round 2 100 MB plexo: 9.02 s, rtt 79/98 ms, lte 41.9 MB, tick 10.0 ms; cellular so far 0.43 GB
+2026-11-05 00:49:31   round 2 100 MB twoway-eq: 7.36 s, rtt 79/98 ms, lte 39.4 MB, tick 10.0 ms; cellular so far 0.47 GB
+2026-11-05 00:49:43   round 2 100 MB cats5: 9.80 s, rtt 79/98 ms, lte 43.4 MB, tick 10.0 ms; cellular so far 0.51 GB
+2026-11-05 00:49:54   round 2 100 MB cats6: 8.89 s, rtt 79/98 ms, lte 38.3 MB, tick 10.0 ms; cellular so far 0.55 GB
+2026-11-05 00:50:09   round 2 100 MB cats8: 12.75 s, rtt 79/98 ms, lte 8.7 MB, tick 10.0 ms; cellular so far 0.56 GB
+2026-11-05 00:50:20   round 2 100 MB mph2-eq: 9.36 s, rtt 79/98 ms, lte 28.2 MB, tick 10.0 ms; cellular so far 0.59 GB
+2026-11-05 00:50:30   round 2 100 MB rb-eq: 7.76 s, rtt 79/98 ms, lte 37.2 MB, tick 10.0 ms; cellular so far 0.63 GB
+2026-11-05 00:50:36   round 3 20 MB twoway-eq: 2.26 s, rtt 80/91 ms, lte 7.3 MB, tick 10.0 ms; cellular so far 0.63 GB
+2026-11-05 00:50:41   round 3 20 MB cats5: 2.25 s, rtt 80/91 ms, lte 7.9 MB, tick 10.1 ms; cellular so far 0.64 GB
+2026-11-05 00:50:45   round 3 20 MB cats6: 2.74 s, rtt 80/91 ms, lte 5.7 MB, tick 10.0 ms; cellular so far 0.65 GB
+2026-11-05 00:50:50   round 3 20 MB plexo: 2.53 s, rtt 80/91 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 0.66 GB
+2026-11-05 00:50:54   round 3 20 MB cats8: 2.00 s, rtt 80/91 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 0.66 GB
+2026-11-05 00:50:58   round 3 20 MB mph2-eq: 1.86 s, rtt 80/91 ms, lte 7.4 MB, tick 10.0 ms; cellular so far 0.67 GB
+2026-11-05 00:52:07 campaign: blocks 1-5, 5 rounds of 20,100 and 3 of 20 each, 6 h apart, cats8,cats6,cats5,plexo,rb-eq,twoway-eq,mph2-eq, cap 10 GB; phone so far 1.32 GB
+2026-11-05 00:52:08 block 1: rounds 1-8, try 1, wifi x.x.x.x, phone x.x.x.x
+2026-11-05 00:52:09   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 00:52:14   round 3 20 MB rb-eq: 1.90 s, rtt 80/96 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 0.68 GB
+2026-11-05 00:52:27   round 3 100 MB cats8: 8.61 s, rtt 79/99 ms, lte 35.5 MB, tick 10.0 ms; cellular so far 0.71 GB
+2026-11-05 00:52:42   round 3 100 MB mph2-eq: 12.57 s, rtt 79/99 ms, lte 52.8 MB, tick 10.0 ms; cellular so far 0.77 GB
+2026-11-05 00:52:52   round 3 100 MB twoway-eq: 8.18 s, rtt 79/99 ms, lte 36.0 MB, tick 10.0 ms; cellular so far 0.80 GB
+2026-11-05 00:53:06   round 3 100 MB cats6: 12.17 s, rtt 79/99 ms, lte 31.6 MB, tick 10.0 ms; cellular so far 0.83 GB
+2026-11-05 00:53:17   round 3 100 MB rb-eq: 8.62 s, rtt 79/99 ms, lte 39.4 MB, tick 10.0 ms; cellular so far 0.87 GB
+2026-11-05 00:53:28   round 3 100 MB cats5: 8.94 s, rtt 79/99 ms, lte 39.1 MB, tick 10.0 ms; cellular so far 0.91 GB
+2026-11-05 00:53:40   round 3 100 MB plexo: 10.49 s, rtt 79/99 ms, lte 38.0 MB, tick 10.0 ms; cellular so far 0.95 GB
+2026-11-05 00:53:46   round 4 20 MB twoway-eq: 1.96 s, rtt 79/96 ms, lte 8.3 MB, tick 10.1 ms; cellular so far 0.96 GB
+2026-11-05 00:53:50   round 4 20 MB cats5: 1.99 s, rtt 79/96 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 0.97 GB
+2026-11-05 00:53:54   round 4 20 MB plexo: 2.12 s, rtt 79/96 ms, lte 8.5 MB, tick 10.0 ms; cellular so far 0.98 GB
+2026-11-05 00:53:59   round 4 20 MB mph2-eq: 2.81 s, rtt 79/96 ms, lte 7.6 MB, tick 10.1 ms; cellular so far 0.98 GB
+2026-11-05 00:54:03   round 4 20 MB rb-eq: 2.23 s, rtt 79/96 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 0.99 GB
+2026-11-05 00:54:08   round 4 20 MB cats8: 2.44 s, rtt 79/96 ms, lte 7.1 MB, tick 10.0 ms; cellular so far 1.00 GB
+2026-11-05 00:54:12   round 4 20 MB cats6: 2.18 s, rtt 79/96 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 1.00 GB
+2026-11-05 00:54:23   round 4 100 MB cats6: 7.41 s, rtt 80/98 ms, lte 41.7 MB, tick 10.0 ms; cellular so far 1.05 GB
+2026-11-05 00:54:33   round 4 100 MB rb-eq: 7.28 s, rtt 80/98 ms, lte 47.1 MB, tick 10.0 ms; cellular so far 1.09 GB
+2026-11-05 00:54:42   round 4 100 MB cats8: 7.22 s, rtt 80/98 ms, lte 40.6 MB, tick 10.0 ms; cellular so far 1.13 GB
+2026-11-05 00:54:52   round 4 100 MB cats5: 8.13 s, rtt 80/98 ms, lte 48.7 MB, tick 10.0 ms; cellular so far 1.18 GB
+2026-11-05 00:55:01   round 4 100 MB twoway-eq: 6.79 s, rtt 80/98 ms, lte 42.2 MB, tick 10.0 ms; cellular so far 1.22 GB
+2026-11-05 00:55:11   round 4 100 MB plexo: 7.72 s, rtt 80/98 ms, lte 50.7 MB, tick 10.0 ms; cellular so far 1.28 GB
+2026-11-05 00:55:20   round 4 100 MB mph2-eq: 7.09 s, rtt 80/98 ms, lte 41.5 MB, tick 10.0 ms; cellular so far 1.32 GB
+2026-11-05 00:55:26   round 5 20 MB cats6: 2.12 s, rtt 81/95 ms, lte 7.5 MB, tick 10.0 ms; cellular so far 1.32 GB
+2026-11-05 00:55:30   round 5 20 MB twoway-eq: 2.19 s, rtt 81/95 ms, lte 8.9 MB, tick 10.0 ms; cellular so far 1.33 GB
+2026-11-05 00:55:34   round 5 20 MB rb-eq: 2.27 s, rtt 81/95 ms, lte 10.3 MB, tick 10.0 ms; cellular so far 1.34 GB
+2026-11-05 00:55:39   round 5 20 MB plexo: 2.30 s, rtt 81/95 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 1.35 GB
+2026-11-05 00:55:43   round 5 20 MB cats5: 1.99 s, rtt 81/95 ms, lte 8.4 MB, tick 10.1 ms; cellular so far 1.36 GB
+2026-11-05 00:55:47   round 5 20 MB mph2-eq: 2.38 s, rtt 81/95 ms, lte 6.7 MB, tick 10.0 ms; cellular so far 1.37 GB
+2026-11-05 00:55:51   round 5 20 MB cats8: 1.88 s, rtt 81/95 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 1.38 GB
+2026-11-05 00:56:03   round 5 100 MB cats5: 8.21 s, rtt 79/97 ms, lte 39.0 MB, tick 10.0 ms; cellular so far 1.41 GB
+2026-11-05 00:56:13   round 5 100 MB cats8: 7.47 s, rtt 79/97 ms, lte 32.6 MB, tick 10.0 ms; cellular so far 1.45 GB
+2026-11-05 00:56:24   round 5 100 MB twoway-eq: 8.94 s, rtt 79/97 ms, lte 38.9 MB, tick 10.0 ms; cellular so far 1.49 GB
+2026-11-05 00:56:34   round 5 100 MB mph2-eq: 8.69 s, rtt 79/97 ms, lte 41.4 MB, tick 10.0 ms; cellular so far 1.53 GB
+2026-11-05 00:56:46   round 5 100 MB plexo: 9.55 s, rtt 79/97 ms, lte 38.1 MB, tick 10.0 ms; cellular so far 1.57 GB
+2026-11-05 00:56:59   round 5 100 MB cats6: 11.16 s, rtt 79/97 ms, lte 34.9 MB, tick 10.0 ms; cellular so far 1.60 GB
+2026-11-05 00:57:10   round 5 100 MB rb-eq: 9.03 s, rtt 79/97 ms, lte 33.0 MB, tick 10.0 ms; cellular so far 1.63 GB
+2026-11-05 00:57:11   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 00:57:17   round 6 20 MB plexo: 2.67 s, rtt 81/100 ms, lte 9.1 MB, tick 10.0 ms; cellular so far 1.64 GB
+2026-11-05 00:57:22   round 6 20 MB rb-eq: 2.32 s, rtt 81/100 ms, lte 8.8 MB, tick 10.0 ms; cellular so far 1.65 GB
+2026-11-05 00:57:26   round 6 20 MB mph2-eq: 2.10 s, rtt 81/100 ms, lte 7.7 MB, tick 10.1 ms; cellular so far 1.66 GB
+2026-11-05 00:57:30   round 6 20 MB cats6: 2.53 s, rtt 81/100 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 1.67 GB
+2026-11-05 00:57:35   round 6 20 MB cats5: 2.46 s, rtt 81/100 ms, lte 8.6 MB, tick 10.1 ms; cellular so far 1.67 GB
+2026-11-05 00:57:39   round 6 20 MB cats8: 2.11 s, rtt 81/100 ms, lte 6.6 MB, tick 10.0 ms; cellular so far 1.68 GB
+2026-11-05 00:57:43   round 6 20 MB twoway-eq: 2.29 s, rtt 81/100 ms, lte 7.7 MB, tick 10.1 ms; cellular so far 1.69 GB
+2026-11-05 00:57:50   round 7 20 MB cats6: 2.45 s, rtt 81/100 ms, lte 6.9 MB, tick 10.0 ms; cellular so far 1.70 GB
+2026-11-05 00:57:54   round 7 20 MB cats8: 2.44 s, rtt 81/100 ms, lte 7.4 MB, tick 10.0 ms; cellular so far 1.70 GB
+2026-11-05 00:57:59   round 7 20 MB mph2-eq: 2.47 s, rtt 81/100 ms, lte 7.8 MB, tick 10.0 ms; cellular so far 1.71 GB
+2026-11-05 00:58:03   round 7 20 MB cats5: 2.26 s, rtt 81/100 ms, lte 10.3 MB, tick 10.0 ms; cellular so far 1.72 GB
+2026-11-05 00:58:08   round 7 20 MB plexo: 2.91 s, rtt 81/100 ms, lte 9.5 MB, tick 10.4 ms; cellular so far 1.73 GB
+2026-11-05 00:58:12   round 7 20 MB twoway-eq: 2.11 s, rtt 81/100 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 1.74 GB
+2026-11-05 00:58:16   round 7 20 MB rb-eq: 2.24 s, rtt 81/100 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 1.75 GB
+2026-11-05 00:58:24   round 8 20 MB plexo: 3.38 s, rtt 82/95 ms, lte 8.8 MB, tick 10.0 ms; cellular so far 1.76 GB
+2026-11-05 00:58:29   round 8 20 MB cats5: 3.12 s, rtt 82/95 ms, lte 8.6 MB, tick 10.3 ms; cellular so far 1.76 GB
+2026-11-05 00:58:33   round 8 20 MB mph2-eq: 2.51 s, rtt 82/95 ms, lte 7.3 MB, tick 10.0 ms; cellular so far 1.77 GB
+2026-11-05 00:58:38   round 8 20 MB cats6: 2.16 s, rtt 82/95 ms, lte 6.9 MB, tick 10.0 ms; cellular so far 1.78 GB
+2026-11-05 00:58:42   round 8 20 MB rb-eq: 2.04 s, rtt 82/95 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 1.79 GB
+2026-11-05 00:58:46   round 8 20 MB cats8: 2.56 s, rtt 82/95 ms, lte 8.1 MB, tick 10.0 ms; cellular so far 1.79 GB
+2026-11-05 00:58:50   round 8 20 MB twoway-eq: 2.21 s, rtt 82/95 ms, lte 6.3 MB, tick 10.0 ms; cellular so far 1.80 GB
+2026-11-05 00:58:51 block 1: done; phone so far 2.55 GB
+2026-11-05 00:58:51 block 2 waits until 11-05 06:52
+2026-11-05 01:00:09 campaign: blocks 2-5, 5 rounds of 20,100 and 3 of 20 each, 6 h apart, cats8,cats6,cats5,plexo,rb-eq,twoway-eq,mph2-eq, cap 9.5 GB; phone so far 2.55 GB
+2026-11-05 01:00:09 block 2 waits until 11-05 06:52
+2026-11-05 06:52:06 block 2: rounds 9-16, try 1, wifi x.x.x.x, phone x.x.x.x
+2026-11-05 06:52:06   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 06:52:13   round 9 20 MB mph2-eq: 2.80 s, rtt 81/100 ms, lte 7.3 MB, tick 10.0 ms; cellular so far 1.81 GB
+2026-11-05 06:52:18   round 9 20 MB cats8: 2.98 s, rtt 81/100 ms, lte 5.6 MB, tick 10.0 ms; cellular so far 1.81 GB
+2026-11-05 06:52:23   round 9 20 MB cats5: 3.03 s, rtt 81/100 ms, lte 6.3 MB, tick 10.0 ms; cellular so far 1.82 GB
+2026-11-05 06:52:28   round 9 20 MB cats6: 2.33 s, rtt 81/100 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 1.83 GB
+2026-11-05 06:52:32   round 9 20 MB rb-eq: 2.48 s, rtt 81/100 ms, lte 5.6 MB, tick 10.0 ms; cellular so far 1.83 GB
+2026-11-05 06:52:37   round 9 20 MB twoway-eq: 2.57 s, rtt 81/100 ms, lte 6.9 MB, tick 10.1 ms; cellular so far 1.84 GB
+2026-11-05 06:52:41   round 9 20 MB plexo: 2.26 s, rtt 81/100 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 1.85 GB
+2026-11-05 06:52:53   round 9 100 MB twoway-eq: 7.95 s, rtt 81/116 ms, lte 37.9 MB, tick 10.0 ms; cellular so far 1.88 GB
+2026-11-05 06:53:03   round 9 100 MB mph2-eq: 7.75 s, rtt 81/116 ms, lte 39.0 MB, tick 10.0 ms; cellular so far 1.92 GB
+2026-11-05 06:53:13   round 9 100 MB cats5: 7.82 s, rtt 81/116 ms, lte 39.9 MB, tick 10.1 ms; cellular so far 1.96 GB
+2026-11-05 06:53:23   round 9 100 MB cats6: 8.06 s, rtt 81/116 ms, lte 36.0 MB, tick 10.0 ms; cellular so far 2.00 GB
+2026-11-05 06:53:34   round 9 100 MB cats8: 8.94 s, rtt 81/116 ms, lte 35.7 MB, tick 10.0 ms; cellular so far 2.04 GB
+2026-11-05 06:53:44   round 9 100 MB rb-eq: 7.62 s, rtt 81/116 ms, lte 47.1 MB, tick 10.0 ms; cellular so far 2.08 GB
+2026-11-05 06:53:54   round 9 100 MB plexo: 8.05 s, rtt 81/116 ms, lte 44.0 MB, tick 10.0 ms; cellular so far 2.13 GB
+2026-11-05 06:54:00   round 10 20 MB cats5: 2.31 s, rtt 81/107 ms, lte 6.2 MB, tick 10.0 ms; cellular so far 2.13 GB
+2026-11-05 06:54:05   round 10 20 MB twoway-eq: 2.62 s, rtt 81/107 ms, lte 6.1 MB, tick 10.0 ms; cellular so far 2.14 GB
+2026-11-05 06:54:09   round 10 20 MB cats8: 2.26 s, rtt 81/107 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 2.15 GB
+2026-11-05 06:54:13   round 10 20 MB rb-eq: 2.09 s, rtt 81/107 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 2.15 GB
+2026-11-05 06:54:18   round 10 20 MB plexo: 2.58 s, rtt 81/107 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 2.16 GB
+2026-11-05 06:54:22   round 10 20 MB cats6: 1.86 s, rtt 81/107 ms, lte 8.1 MB, tick 10.0 ms; cellular so far 2.17 GB
+2026-11-05 06:54:26   round 10 20 MB mph2-eq: 2.38 s, rtt 81/107 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 2.18 GB
+2026-11-05 06:54:38   round 10 100 MB cats6: 6.88 s, rtt 83/104 ms, lte 39.4 MB, tick 10.0 ms; cellular so far 2.22 GB
+2026-11-05 06:54:48   round 10 100 MB twoway-eq: 8.67 s, rtt 83/104 ms, lte 40.9 MB, tick 10.0 ms; cellular so far 2.26 GB
+2026-11-05 06:54:57   round 10 100 MB mph2-eq: 6.80 s, rtt 83/104 ms, lte 39.2 MB, tick 10.0 ms; cellular so far 2.30 GB
+2026-11-05 06:55:07   round 10 100 MB rb-eq: 7.67 s, rtt 83/104 ms, lte 40.9 MB, tick 10.0 ms; cellular so far 2.34 GB
+2026-11-05 06:55:18   round 10 100 MB cats5: 9.63 s, rtt 83/104 ms, lte 43.5 MB, tick 10.0 ms; cellular so far 2.38 GB
+2026-11-05 06:55:28   round 10 100 MB cats8: 7.25 s, rtt 83/104 ms, lte 39.4 MB, tick 10.0 ms; cellular so far 2.42 GB
+2026-11-05 06:55:38   round 10 100 MB plexo: 8.01 s, rtt 83/104 ms, lte 41.3 MB, tick 10.1 ms; cellular so far 2.46 GB
+2026-11-05 06:55:44   round 11 20 MB cats5: 2.33 s, rtt 79/101 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 2.47 GB
+2026-11-05 06:55:48   round 11 20 MB mph2-eq: 1.95 s, rtt 79/101 ms, lte 6.3 MB, tick 10.0 ms; cellular so far 2.47 GB
+2026-11-05 06:55:53   round 11 20 MB cats8: 2.59 s, rtt 79/101 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 2.48 GB
+2026-11-05 06:55:56   round 11 20 MB cats6: 1.84 s, rtt 79/101 ms, lte 6.6 MB, tick 10.0 ms; cellular so far 2.49 GB
+2026-11-05 06:56:01   round 11 20 MB plexo: 2.68 s, rtt 79/101 ms, lte 8.1 MB, tick 10.1 ms; cellular so far 2.50 GB
+2026-11-05 06:56:05   round 11 20 MB rb-eq: 2.14 s, rtt 79/101 ms, lte 5.2 MB, tick 10.0 ms; cellular so far 2.50 GB
+2026-11-05 06:56:09   round 11 20 MB twoway-eq: 2.16 s, rtt 79/101 ms, lte 7.7 MB, tick 10.0 ms; cellular so far 2.51 GB
+2026-11-05 06:56:23   round 11 100 MB cats5: 8.86 s, rtt 80/116 ms, lte 43.0 MB, tick 10.1 ms; cellular so far 2.55 GB
+2026-11-05 06:56:33   round 11 100 MB rb-eq: 7.84 s, rtt 80/116 ms, lte 45.9 MB, tick 10.0 ms; cellular so far 2.60 GB
+2026-11-05 06:56:42   round 11 100 MB mph2-eq: 7.46 s, rtt 80/116 ms, lte 39.8 MB, tick 10.0 ms; cellular so far 2.64 GB
+2026-11-05 06:56:52   round 11 100 MB cats8: 8.08 s, rtt 80/116 ms, lte 44.0 MB, tick 10.0 ms; cellular so far 2.68 GB
+2026-11-05 06:57:02   round 11 100 MB plexo: 8.22 s, rtt 80/116 ms, lte 46.1 MB, tick 10.0 ms; cellular so far 2.73 GB
+2026-11-05 06:57:12   round 11 100 MB cats6: 7.40 s, rtt 80/116 ms, lte 35.3 MB, tick 10.0 ms; cellular so far 2.76 GB
+2026-11-05 06:57:22   round 11 100 MB twoway-eq: 8.61 s, rtt 80/116 ms, lte 34.2 MB, tick 10.0 ms; cellular so far 2.80 GB
+2026-11-05 06:57:29   round 12 20 MB rb-eq: 1.81 s, rtt 82/109 ms, lte 6.9 MB, tick 10.0 ms; cellular so far 2.80 GB
+2026-11-05 06:57:33   round 12 20 MB cats8: 2.55 s, rtt 82/109 ms, lte 7.4 MB, tick 10.0 ms; cellular so far 2.81 GB
+2026-11-05 06:57:37   round 12 20 MB cats5: 2.25 s, rtt 82/109 ms, lte 7.8 MB, tick 10.1 ms; cellular so far 2.82 GB
+2026-11-05 06:57:42   round 12 20 MB plexo: 2.18 s, rtt 82/109 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 2.83 GB
+2026-11-05 06:57:46   round 12 20 MB cats6: 2.18 s, rtt 82/109 ms, lte 6.2 MB, tick 10.0 ms; cellular so far 2.83 GB
+2026-11-05 06:57:50   round 12 20 MB twoway-eq: 2.28 s, rtt 82/109 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 2.84 GB
+2026-11-05 06:57:55   round 12 20 MB mph2-eq: 2.59 s, rtt 82/109 ms, lte 5.9 MB, tick 10.0 ms; cellular so far 2.85 GB
+2026-11-05 06:58:06   round 12 100 MB cats8: 7.53 s, rtt 81/109 ms, lte 35.8 MB, tick 10.0 ms; cellular so far 2.88 GB
+2026-11-05 06:58:17   round 12 100 MB twoway-eq: 8.67 s, rtt 81/109 ms, lte 36.0 MB, tick 10.0 ms; cellular so far 2.92 GB
+2026-11-05 06:58:27   round 12 100 MB cats5: 8.25 s, rtt 81/109 ms, lte 42.8 MB, tick 10.0 ms; cellular so far 2.96 GB
+2026-11-05 06:58:37   round 12 100 MB plexo: 7.52 s, rtt 81/109 ms, lte 43.0 MB, tick 10.0 ms; cellular so far 3.00 GB
+2026-11-05 06:58:48   round 12 100 MB mph2-eq: 9.19 s, rtt 81/109 ms, lte 38.1 MB, tick 10.0 ms; cellular so far 3.04 GB
+2026-11-05 06:58:57   round 12 100 MB rb-eq: 7.41 s, rtt 81/109 ms, lte 43.1 MB, tick 10.0 ms; cellular so far 3.09 GB
+2026-11-05 06:59:13   round 12 100 MB cats6: 13.97 s, rtt 81/109 ms, lte 39.6 MB, tick 10.0 ms; cellular so far 3.13 GB
+2026-11-05 06:59:20   round 13 20 MB cats5: 2.42 s, rtt 81/111 ms, lte 8.8 MB, tick 10.0 ms; cellular so far 3.13 GB
+2026-11-05 06:59:24   round 13 20 MB cats8: 2.23 s, rtt 81/111 ms, lte 8.3 MB, tick 10.0 ms; cellular so far 3.14 GB
+2026-11-05 06:59:28   round 13 20 MB plexo: 2.12 s, rtt 81/111 ms, lte 8.4 MB, tick 10.1 ms; cellular so far 3.15 GB
+2026-11-05 06:59:32   round 13 20 MB mph2-eq: 2.18 s, rtt 81/111 ms, lte 4.9 MB, tick 10.0 ms; cellular so far 3.16 GB
+2026-11-05 06:59:37   round 13 20 MB rb-eq: 2.53 s, rtt 81/111 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 3.16 GB
+2026-11-05 06:59:41   round 13 20 MB cats6: 2.30 s, rtt 81/111 ms, lte 8.5 MB, tick 10.0 ms; cellular so far 3.17 GB
+2026-11-05 06:59:46   round 13 20 MB twoway-eq: 2.37 s, rtt 81/111 ms, lte 7.2 MB, tick 10.0 ms; cellular so far 3.18 GB
+2026-11-05 06:59:59   round 13 100 MB cats5: 8.31 s, rtt 82/111 ms, lte 42.4 MB, tick 10.0 ms; cellular so far 3.22 GB
+2026-11-05 07:00:08   round 13 100 MB mph2-eq: 7.51 s, rtt 82/111 ms, lte 40.0 MB, tick 10.0 ms; cellular so far 3.26 GB
+2026-11-05 07:00:20   round 13 100 MB cats6: 9.55 s, rtt 82/111 ms, lte 37.2 MB, tick 10.0 ms; cellular so far 3.30 GB
+2026-11-05 07:00:30   round 13 100 MB twoway-eq: 8.18 s, rtt 82/111 ms, lte 40.4 MB, tick 10.0 ms; cellular so far 3.34 GB
+2026-11-05 07:00:40   round 13 100 MB cats8: 7.81 s, rtt 82/111 ms, lte 35.9 MB, tick 10.0 ms; cellular so far 3.37 GB
+2026-11-05 07:00:49   round 13 100 MB rb-eq: 7.24 s, rtt 82/111 ms, lte 37.7 MB, tick 10.0 ms; cellular so far 3.41 GB
+2026-11-05 07:01:00   round 13 100 MB plexo: 9.02 s, rtt 82/111 ms, lte 44.0 MB, tick 10.0 ms; cellular so far 3.46 GB
+2026-11-05 07:01:01   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 07:01:07   round 14 20 MB cats5: 2.30 s, rtt 84/101 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 3.46 GB
+2026-11-05 07:01:11   round 14 20 MB cats6: 1.96 s, rtt 84/101 ms, lte 7.1 MB, tick 10.0 ms; cellular so far 3.47 GB
+2026-11-05 07:01:16   round 14 20 MB plexo: 2.52 s, rtt 84/101 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 3.48 GB
+2026-11-05 07:01:20   round 14 20 MB mph2-eq: 2.20 s, rtt 84/101 ms, lte 6.5 MB, tick 10.1 ms; cellular so far 3.48 GB
+2026-11-05 07:01:24   round 14 20 MB rb-eq: 2.34 s, rtt 84/101 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 3.49 GB
+2026-11-05 07:01:28   round 14 20 MB cats8: 2.19 s, rtt 84/101 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 3.50 GB
+2026-11-05 07:01:33   round 14 20 MB twoway-eq: 2.51 s, rtt 84/101 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 3.50 GB
+2026-11-05 07:01:39   round 15 20 MB cats8: 1.68 s, rtt 82/100 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 3.51 GB
+2026-11-05 07:01:43   round 15 20 MB twoway-eq: 2.54 s, rtt 82/100 ms, lte 8.1 MB, tick 10.0 ms; cellular so far 3.52 GB
+2026-11-05 07:01:48   round 15 20 MB cats5: 2.25 s, rtt 82/100 ms, lte 8.5 MB, tick 10.0 ms; cellular so far 3.53 GB
+2026-11-05 07:01:52   round 15 20 MB rb-eq: 2.15 s, rtt 82/100 ms, lte 7.8 MB, tick 10.0 ms; cellular so far 3.53 GB
+2026-11-05 07:01:56   round 15 20 MB plexo: 2.29 s, rtt 82/100 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 3.54 GB
+2026-11-05 07:02:00   round 15 20 MB mph2-eq: 1.92 s, rtt 82/100 ms, lte 7.8 MB, tick 10.1 ms; cellular so far 3.55 GB
+2026-11-05 07:02:04   round 15 20 MB cats6: 2.02 s, rtt 82/100 ms, lte 6.1 MB, tick 10.0 ms; cellular so far 3.56 GB
+2026-11-05 07:02:10   round 16 20 MB rb-eq: 2.18 s, rtt 84/105 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 3.56 GB
+2026-11-05 07:02:14   round 16 20 MB mph2-eq: 1.93 s, rtt 84/105 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 3.57 GB
+2026-11-05 07:02:19   round 16 20 MB plexo: 2.57 s, rtt 84/105 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 3.58 GB
+2026-11-05 07:02:23   round 16 20 MB cats6: 1.94 s, rtt 84/105 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 3.58 GB
+2026-11-05 07:02:27   round 16 20 MB cats5: 2.32 s, rtt 84/105 ms, lte 8.1 MB, tick 10.2 ms; cellular so far 3.59 GB
+2026-11-05 07:02:31   round 16 20 MB twoway-eq: 2.19 s, rtt 84/105 ms, lte 7.1 MB, tick 10.0 ms; cellular so far 3.60 GB
+2026-11-05 07:02:35   round 16 20 MB cats8: 2.16 s, rtt 84/105 ms, lte 7.1 MB, tick 10.0 ms; cellular so far 3.61 GB
+2026-11-05 07:02:35 block 2: done; phone so far 4.54 GB
+2026-11-05 07:02:36 block 3 waits until 11-05 12:52
+2026-11-05 12:52:04 block 3: rounds 17-24, try 1, wifi x.x.x.x, phone x.x.x.x
+2026-11-05 12:52:05   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 12:52:12   round 17 20 MB mph2-eq: 2.93 s, rtt 83/101 ms, lte 6.7 MB, tick 10.0 ms; cellular so far 3.61 GB
+2026-11-05 12:52:19   round 17 20 MB plexo: 4.22 s, rtt 83/101 ms, lte 8.5 MB, tick 10.9 ms; cellular so far 3.62 GB
+2026-11-05 12:52:24   round 17 20 MB twoway-eq: 3.56 s, rtt 83/101 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 3.63 GB
+2026-11-05 12:52:28   round 17 20 MB cats8: 2.30 s, rtt 83/101 ms, lte 8.3 MB, tick 10.0 ms; cellular so far 3.64 GB
+2026-11-05 12:52:35   round 17 20 MB cats5: 4.70 s, rtt 83/101 ms, lte 17.7 MB, tick 10.1 ms; cellular so far 3.65 GB
+2026-11-05 12:52:39   round 17 20 MB rb-eq: 2.32 s, rtt 83/101 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 3.66 GB
+2026-11-05 12:52:44   round 17 20 MB cats6: 2.76 s, rtt 83/101 ms, lte 5.2 MB, tick 10.1 ms; cellular so far 3.67 GB
+2026-11-05 12:52:57   round 17 100 MB cats8: 8.77 s, rtt 81/100 ms, lte 39.3 MB, tick 10.0 ms; cellular so far 3.71 GB
+2026-11-05 12:53:09   round 17 100 MB rb-eq: 9.58 s, rtt 81/100 ms, lte 42.9 MB, tick 10.0 ms; cellular so far 3.75 GB
+2026-11-05 12:53:21   round 17 100 MB twoway-eq: 10.08 s, rtt 81/100 ms, lte 41.2 MB, tick 10.0 ms; cellular so far 3.79 GB
+2026-11-05 12:53:32   round 17 100 MB cats6: 9.25 s, rtt 81/100 ms, lte 39.3 MB, tick 10.0 ms; cellular so far 3.83 GB
+2026-11-05 12:53:44   round 17 100 MB cats5: 9.72 s, rtt 81/100 ms, lte 41.2 MB, tick 10.0 ms; cellular so far 3.87 GB
+2026-11-05 12:53:55   round 17 100 MB plexo: 9.15 s, rtt 81/100 ms, lte 39.8 MB, tick 10.0 ms; cellular so far 3.91 GB
+2026-11-05 12:54:07   round 17 100 MB mph2-eq: 9.99 s, rtt 81/100 ms, lte 39.6 MB, tick 10.0 ms; cellular so far 3.95 GB
+2026-11-05 12:54:14   round 18 20 MB plexo: 2.99 s, rtt 84/109 ms, lte 8.4 MB, tick 10.5 ms; cellular so far 3.96 GB
+2026-11-05 12:54:18   round 18 20 MB cats8: 2.05 s, rtt 84/109 ms, lte 6.6 MB, tick 10.0 ms; cellular so far 3.96 GB
+2026-11-05 12:54:22   round 18 20 MB rb-eq: 2.30 s, rtt 84/109 ms, lte 6.5 MB, tick 10.0 ms; cellular so far 3.97 GB
+2026-11-05 12:54:27   round 18 20 MB twoway-eq: 2.42 s, rtt 84/109 ms, lte 6.9 MB, tick 10.0 ms; cellular so far 3.98 GB
+2026-11-05 12:54:31   round 18 20 MB mph2-eq: 2.36 s, rtt 84/109 ms, lte 6.5 MB, tick 10.0 ms; cellular so far 3.98 GB
+2026-11-05 12:54:36   round 18 20 MB cats6: 2.63 s, rtt 84/109 ms, lte 10.4 MB, tick 10.0 ms; cellular so far 4.00 GB
+2026-11-05 12:54:41   round 18 20 MB cats5: 3.22 s, rtt 84/109 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 4.00 GB
+2026-11-05 12:54:54   round 18 100 MB mph2-eq: 8.21 s, rtt 81/105 ms, lte 39.2 MB, tick 10.0 ms; cellular so far 4.04 GB
+2026-11-05 12:55:04   round 18 100 MB rb-eq: 7.98 s, rtt 81/105 ms, lte 42.2 MB, tick 10.0 ms; cellular so far 4.08 GB
+2026-11-05 12:55:14   round 18 100 MB twoway-eq: 8.15 s, rtt 81/105 ms, lte 41.2 MB, tick 10.0 ms; cellular so far 4.13 GB
+2026-11-05 12:55:25   round 18 100 MB cats5: 9.35 s, rtt 81/105 ms, lte 48.8 MB, tick 10.0 ms; cellular so far 4.17 GB
+2026-11-05 12:55:38   round 18 100 MB cats6: 10.97 s, rtt 81/105 ms, lte 46.3 MB, tick 10.0 ms; cellular so far 4.22 GB
+2026-11-05 12:55:48   round 18 100 MB cats8: 7.47 s, rtt 81/105 ms, lte 37.5 MB, tick 10.0 ms; cellular so far 4.26 GB
+2026-11-05 12:55:59   round 18 100 MB plexo: 9.68 s, rtt 81/105 ms, lte 41.9 MB, tick 10.0 ms; cellular so far 4.30 GB
+2026-11-05 12:56:06   round 19 20 MB plexo: 3.16 s, rtt 83/109 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 4.31 GB
+2026-11-05 12:56:10   round 19 20 MB mph2-eq: 1.98 s, rtt 83/109 ms, lte 6.2 MB, tick 10.0 ms; cellular so far 4.32 GB
+2026-11-05 12:56:15   round 19 20 MB cats6: 2.35 s, rtt 83/109 ms, lte 7.5 MB, tick 10.0 ms; cellular so far 4.32 GB
+2026-11-05 12:56:19   round 19 20 MB twoway-eq: 2.48 s, rtt 83/109 ms, lte 6.9 MB, tick 10.0 ms; cellular so far 4.33 GB
+2026-11-05 12:56:23   round 19 20 MB cats5: 2.10 s, rtt 83/109 ms, lte 7.1 MB, tick 10.0 ms; cellular so far 4.34 GB
+2026-11-05 12:56:28   round 19 20 MB cats8: 2.68 s, rtt 83/109 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 4.34 GB
+2026-11-05 12:56:32   round 19 20 MB rb-eq: 2.33 s, rtt 83/109 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 4.35 GB
+2026-11-05 12:56:47   round 19 100 MB cats6: 10.59 s, rtt 82/105 ms, lte 42.6 MB, tick 10.0 ms; cellular so far 4.40 GB
+2026-11-05 12:57:00   round 19 100 MB cats8: 10.95 s, rtt 82/105 ms, lte 37.7 MB, tick 10.0 ms; cellular so far 4.43 GB
+2026-11-05 12:57:12   round 19 100 MB cats5: 9.84 s, rtt 82/105 ms, lte 45.7 MB, tick 10.0 ms; cellular so far 4.48 GB
+2026-11-05 12:57:22   round 19 100 MB mph2-eq: 8.04 s, rtt 82/105 ms, lte 41.9 MB, tick 10.0 ms; cellular so far 4.52 GB
+2026-11-05 12:57:32   round 19 100 MB rb-eq: 8.19 s, rtt 82/105 ms, lte 43.2 MB, tick 10.0 ms; cellular so far 4.56 GB
+2026-11-05 12:57:43   round 19 100 MB plexo: 9.06 s, rtt 82/105 ms, lte 39.8 MB, tick 10.0 ms; cellular so far 4.60 GB
+2026-11-05 12:57:54   round 19 100 MB twoway-eq: 8.77 s, rtt 82/105 ms, lte 35.3 MB, tick 10.0 ms; cellular so far 4.64 GB
+2026-11-05 12:58:00   round 20 20 MB rb-eq: 2.08 s, rtt 83/103 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 4.65 GB
+2026-11-05 12:58:05   round 20 20 MB mph2-eq: 2.25 s, rtt 83/103 ms, lte 7.2 MB, tick 10.0 ms; cellular so far 4.65 GB
+2026-11-05 12:58:09   round 20 20 MB cats5: 2.78 s, rtt 83/103 ms, lte 7.4 MB, tick 10.0 ms; cellular so far 4.66 GB
+2026-11-05 12:58:17   round 20 20 MB cats6: 6.06 s, rtt 83/103 ms, lte 9.4 MB, tick 10.0 ms; cellular so far 4.67 GB
+2026-11-05 12:58:22   round 20 20 MB cats8: 2.49 s, rtt 83/103 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 4.68 GB
+2026-11-05 12:58:27   round 20 20 MB twoway-eq: 2.73 s, rtt 83/103 ms, lte 6.9 MB, tick 10.0 ms; cellular so far 4.69 GB
+2026-11-05 12:58:32   round 20 20 MB plexo: 2.76 s, rtt 83/103 ms, lte 8.4 MB, tick 10.1 ms; cellular so far 4.69 GB
+2026-11-05 12:58:46   round 20 100 MB mph2-eq: 10.20 s, rtt 81/101 ms, lte 36.8 MB, tick 10.0 ms; cellular so far 4.73 GB
+2026-11-05 12:58:58   round 20 100 MB rb-eq: 10.39 s, rtt 81/101 ms, lte 34.0 MB, tick 10.0 ms; cellular so far 4.76 GB
+2026-11-05 12:59:09   round 20 100 MB cats6: 8.73 s, rtt 81/101 ms, lte 40.5 MB, tick 10.0 ms; cellular so far 4.80 GB
+2026-11-05 12:59:19   round 20 100 MB cats8: 8.13 s, rtt 81/101 ms, lte 49.6 MB, tick 10.0 ms; cellular so far 4.85 GB
+2026-11-05 12:59:30   round 20 100 MB twoway-eq: 8.42 s, rtt 81/101 ms, lte 39.2 MB, tick 10.0 ms; cellular so far 4.89 GB
+2026-11-05 12:59:40   round 20 100 MB plexo: 8.48 s, rtt 81/101 ms, lte 43.0 MB, tick 10.0 ms; cellular so far 4.94 GB
+2026-11-05 12:59:50   round 20 100 MB cats5: 8.12 s, rtt 81/101 ms, lte 38.4 MB, tick 10.0 ms; cellular so far 4.97 GB
+2026-11-05 12:59:57   round 21 20 MB cats6: 3.05 s, rtt 82/99 ms, lte 6.4 MB, tick 10.1 ms; cellular so far 4.98 GB
+2026-11-05 13:00:02   round 21 20 MB cats8: 2.61 s, rtt 82/99 ms, lte 7.4 MB, tick 10.0 ms; cellular so far 4.99 GB
+2026-11-05 13:00:06   round 21 20 MB mph2-eq: 1.95 s, rtt 82/99 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 4.99 GB
+2026-11-05 13:00:10   round 21 20 MB cats5: 2.57 s, rtt 82/99 ms, lte 7.2 MB, tick 10.2 ms; cellular so far 5.00 GB
+2026-11-05 13:00:15   round 21 20 MB rb-eq: 2.33 s, rtt 82/99 ms, lte 7.5 MB, tick 10.0 ms; cellular so far 5.01 GB
+2026-11-05 13:00:19   round 21 20 MB plexo: 1.95 s, rtt 82/99 ms, lte 8.4 MB, tick 10.1 ms; cellular so far 5.02 GB
+2026-11-05 13:00:24   round 21 20 MB twoway-eq: 3.11 s, rtt 82/99 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 5.02 GB
+2026-11-05 13:00:37   round 21 100 MB cats8: 9.44 s, rtt 82/110 ms, lte 42.4 MB, tick 10.0 ms; cellular so far 5.07 GB
+2026-11-05 13:00:48   round 21 100 MB mph2-eq: 8.43 s, rtt 82/110 ms, lte 42.1 MB, tick 10.0 ms; cellular so far 5.11 GB
+2026-11-05 13:01:00   round 21 100 MB cats5: 10.18 s, rtt 82/110 ms, lte 45.4 MB, tick 10.1 ms; cellular so far 5.15 GB
+2026-11-05 13:01:11   round 21 100 MB twoway-eq: 9.31 s, rtt 82/110 ms, lte 46.7 MB, tick 10.0 ms; cellular so far 5.20 GB
+2026-11-05 13:01:21   round 21 100 MB rb-eq: 7.70 s, rtt 82/110 ms, lte 44.9 MB, tick 10.0 ms; cellular so far 5.25 GB
+2026-11-05 13:01:33   round 21 100 MB plexo: 10.10 s, rtt 82/110 ms, lte 39.2 MB, tick 10.1 ms; cellular so far 5.29 GB
+2026-11-05 13:01:49   round 21 100 MB cats6: 14.17 s, rtt 82/110 ms, lte 38.4 MB, tick 10.0 ms; cellular so far 5.32 GB
+2026-11-05 13:01:50   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 13:01:57   round 22 20 MB twoway-eq: 2.70 s, rtt 83/111 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 5.33 GB
+2026-11-05 13:02:01   round 22 20 MB mph2-eq: 2.39 s, rtt 83/111 ms, lte 6.1 MB, tick 10.0 ms; cellular so far 5.34 GB
+2026-11-05 13:02:05   round 22 20 MB rb-eq: 2.13 s, rtt 83/111 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 5.34 GB
+2026-11-05 13:02:10   round 22 20 MB plexo: 2.44 s, rtt 83/111 ms, lte 8.4 MB, tick 10.1 ms; cellular so far 5.35 GB
+2026-11-05 13:02:14   round 22 20 MB cats6: 2.35 s, rtt 83/111 ms, lte 5.0 MB, tick 10.0 ms; cellular so far 5.36 GB
+2026-11-05 13:02:18   round 22 20 MB cats8: 2.30 s, rtt 83/111 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 5.36 GB
+2026-11-05 13:02:23   round 22 20 MB cats5: 2.85 s, rtt 83/111 ms, lte 8.7 MB, tick 10.0 ms; cellular so far 5.37 GB
+2026-11-05 13:02:30   round 23 20 MB cats8: 2.42 s, rtt 84/102 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 5.38 GB
+2026-11-05 13:02:34   round 23 20 MB rb-eq: 2.21 s, rtt 84/102 ms, lte 7.2 MB, tick 10.0 ms; cellular so far 5.39 GB
+2026-11-05 13:02:40   round 23 20 MB plexo: 3.78 s, rtt 84/102 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 5.40 GB
+2026-11-05 13:02:44   round 23 20 MB mph2-eq: 2.05 s, rtt 84/102 ms, lte 7.2 MB, tick 10.1 ms; cellular so far 5.40 GB
+2026-11-05 13:02:48   round 23 20 MB cats6: 2.14 s, rtt 84/102 ms, lte 4.6 MB, tick 10.1 ms; cellular so far 5.41 GB
+2026-11-05 13:02:53   round 23 20 MB cats5: 2.17 s, rtt 84/102 ms, lte 7.7 MB, tick 10.0 ms; cellular so far 5.42 GB
+2026-11-05 13:02:57   round 23 20 MB twoway-eq: 2.47 s, rtt 84/102 ms, lte 6.0 MB, tick 10.0 ms; cellular so far 5.42 GB
+2026-11-05 13:03:03   round 24 20 MB cats5: 2.19 s, rtt 87/105 ms, lte 7.2 MB, tick 10.0 ms; cellular so far 5.43 GB
+2026-11-05 13:03:08   round 24 20 MB plexo: 2.83 s, rtt 87/105 ms, lte 8.1 MB, tick 10.0 ms; cellular so far 5.44 GB
+2026-11-05 13:03:13   round 24 20 MB twoway-eq: 2.63 s, rtt 87/105 ms, lte 5.4 MB, tick 10.0 ms; cellular so far 5.44 GB
+2026-11-05 13:03:17   round 24 20 MB cats8: 2.01 s, rtt 87/105 ms, lte 4.5 MB, tick 10.0 ms; cellular so far 5.45 GB
+2026-11-05 13:03:21   round 24 20 MB rb-eq: 2.62 s, rtt 87/105 ms, lte 6.1 MB, tick 10.0 ms; cellular so far 5.45 GB
+2026-11-05 13:03:26   round 24 20 MB cats6: 2.67 s, rtt 87/105 ms, lte 4.9 MB, tick 10.0 ms; cellular so far 5.46 GB
+2026-11-05 13:03:30   round 24 20 MB mph2-eq: 2.24 s, rtt 87/105 ms, lte 5.4 MB, tick 10.0 ms; cellular so far 5.46 GB
+2026-11-05 13:03:31 block 3: done; phone so far 6.59 GB
+2026-11-05 13:03:31 block 4 waits until 11-05 18:52
+2026-11-05 18:52:01 block 4: rounds 25-32, try 1, wifi x.x.x.x, phone x.x.x.x
+2026-11-05 18:52:02   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 18:52:09   round 25 20 MB cats6: 2.80 s, rtt 81/96 ms, lte 4.7 MB, tick 10.0 ms; cellular so far 5.47 GB
+2026-11-05 18:52:13   round 25 20 MB mph2-eq: 2.30 s, rtt 81/96 ms, lte 4.6 MB, tick 10.0 ms; cellular so far 5.47 GB
+2026-11-05 18:52:18   round 25 20 MB cats8: 3.13 s, rtt 81/96 ms, lte 3.2 MB, tick 10.0 ms; cellular so far 5.48 GB
+2026-11-05 18:52:23   round 25 20 MB cats5: 2.78 s, rtt 81/96 ms, lte 3.7 MB, tick 10.0 ms; cellular so far 5.48 GB
+2026-11-05 18:52:27   round 25 20 MB twoway-eq: 2.19 s, rtt 81/96 ms, lte 6.6 MB, tick 10.1 ms; cellular so far 5.49 GB
+2026-11-05 18:52:31   round 25 20 MB rb-eq: 2.02 s, rtt 81/96 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 5.49 GB
+2026-11-05 18:52:37   round 25 20 MB plexo: 3.91 s, rtt 81/96 ms, lte 7.4 MB, tick 10.0 ms; cellular so far 5.50 GB
+2026-11-05 18:52:52   round 25 100 MB plexo: 10.99 s, rtt 82/98 ms, lte 30.8 MB, tick 10.0 ms; cellular so far 5.53 GB
+2026-11-05 18:53:05   round 25 100 MB mph2-eq: 10.31 s, rtt 82/98 ms, lte 33.7 MB, tick 10.0 ms; cellular so far 5.56 GB
+2026-11-05 18:53:16   round 25 100 MB cats5: 9.51 s, rtt 82/98 ms, lte 29.0 MB, tick 10.0 ms; cellular so far 5.59 GB
+2026-11-05 18:53:28   round 25 100 MB rb-eq: 9.35 s, rtt 82/98 ms, lte 35.4 MB, tick 10.0 ms; cellular so far 5.63 GB
+2026-11-05 18:53:38   round 25 100 MB cats6: 8.92 s, rtt 82/98 ms, lte 30.9 MB, tick 10.0 ms; cellular so far 5.66 GB
+2026-11-05 18:53:51   round 25 100 MB cats8: 10.07 s, rtt 82/98 ms, lte 40.4 MB, tick 10.0 ms; cellular so far 5.70 GB
+2026-11-05 18:54:03   round 25 100 MB twoway-eq: 10.19 s, rtt 82/98 ms, lte 39.7 MB, tick 10.0 ms; cellular so far 5.74 GB
+2026-11-05 18:54:09   round 26 20 MB mph2-eq: 2.36 s, rtt 85/95 ms, lte 5.7 MB, tick 10.0 ms; cellular so far 5.75 GB
+2026-11-05 18:54:14   round 26 20 MB cats8: 2.59 s, rtt 85/95 ms, lte 5.8 MB, tick 10.0 ms; cellular so far 5.75 GB
+2026-11-05 18:54:18   round 26 20 MB twoway-eq: 2.54 s, rtt 85/95 ms, lte 7.3 MB, tick 10.1 ms; cellular so far 5.76 GB
+2026-11-05 18:54:23   round 26 20 MB plexo: 3.02 s, rtt 85/95 ms, lte 8.2 MB, tick 10.0 ms; cellular so far 5.77 GB
+2026-11-05 18:54:28   round 26 20 MB cats5: 2.75 s, rtt 85/95 ms, lte 7.5 MB, tick 10.0 ms; cellular so far 5.77 GB
+2026-11-05 18:54:33   round 26 20 MB rb-eq: 2.38 s, rtt 85/95 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 5.78 GB
+2026-11-05 18:54:37   round 26 20 MB cats6: 2.58 s, rtt 85/95 ms, lte 6.4 MB, tick 10.0 ms; cellular so far 5.79 GB
+2026-11-05 18:54:54   round 26 100 MB cats6: 13.31 s, rtt 83/102 ms, lte 31.8 MB, tick 10.0 ms; cellular so far 5.82 GB
+2026-11-05 18:55:07   round 26 100 MB mph2-eq: 10.16 s, rtt 83/102 ms, lte 36.9 MB, tick 10.0 ms; cellular so far 5.86 GB
+2026-11-05 18:55:19   round 26 100 MB cats5: 10.54 s, rtt 83/102 ms, lte 37.7 MB, tick 10.0 ms; cellular so far 5.89 GB
+2026-11-05 18:55:30   round 26 100 MB rb-eq: 8.62 s, rtt 83/102 ms, lte 44.0 MB, tick 10.0 ms; cellular so far 5.94 GB
+2026-11-05 18:55:41   round 26 100 MB twoway-eq: 8.91 s, rtt 83/102 ms, lte 44.4 MB, tick 10.0 ms; cellular so far 5.98 GB
+2026-11-05 18:55:54   round 26 100 MB plexo: 10.72 s, rtt 83/102 ms, lte 34.6 MB, tick 10.0 ms; cellular so far 6.02 GB
+2026-11-05 18:56:03   round 26 100 MB cats8: 7.72 s, rtt 83/102 ms, lte 38.6 MB, tick 10.0 ms; cellular so far 6.06 GB
+2026-11-05 18:56:09   round 27 20 MB cats8: 1.91 s, rtt 82/101 ms, lte 6.2 MB, tick 10.0 ms; cellular so far 6.06 GB
+2026-11-05 18:56:14   round 27 20 MB cats5: 2.60 s, rtt 82/101 ms, lte 8.6 MB, tick 10.0 ms; cellular so far 6.07 GB
+2026-11-05 18:56:19   round 27 20 MB twoway-eq: 2.83 s, rtt 82/101 ms, lte 5.9 MB, tick 10.1 ms; cellular so far 6.08 GB
+2026-11-05 18:56:23   round 27 20 MB plexo: 2.47 s, rtt 82/101 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 6.08 GB
+2026-11-05 18:56:28   round 27 20 MB cats6: 2.52 s, rtt 82/101 ms, lte 7.8 MB, tick 10.0 ms; cellular so far 6.09 GB
+2026-11-05 18:56:32   round 27 20 MB rb-eq: 2.12 s, rtt 82/101 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 6.10 GB
+2026-11-05 18:56:36   round 27 20 MB mph2-eq: 2.18 s, rtt 82/101 ms, lte 6.6 MB, tick 10.0 ms; cellular so far 6.11 GB
+2026-11-05 18:56:49   round 27 100 MB twoway-eq: 8.75 s, rtt 81/99 ms, lte 40.5 MB, tick 10.0 ms; cellular so far 6.15 GB
+2026-11-05 18:56:58   round 27 100 MB rb-eq: 7.25 s, rtt 81/99 ms, lte 37.5 MB, tick 10.0 ms; cellular so far 6.18 GB
+2026-11-05 18:57:08   round 27 100 MB mph2-eq: 8.15 s, rtt 81/99 ms, lte 37.4 MB, tick 10.0 ms; cellular so far 6.22 GB
+2026-11-05 18:57:24   round 27 100 MB cats6: 13.40 s, rtt 81/99 ms, lte 36.1 MB, tick 10.0 ms; cellular so far 6.26 GB
+2026-11-05 18:57:35   round 27 100 MB cats5: 9.42 s, rtt 81/99 ms, lte 40.3 MB, tick 10.0 ms; cellular so far 6.30 GB
+2026-11-05 18:57:46   round 27 100 MB cats8: 8.99 s, rtt 81/99 ms, lte 35.4 MB, tick 10.0 ms; cellular so far 6.33 GB
+2026-11-05 18:57:57   round 27 100 MB plexo: 8.89 s, rtt 81/99 ms, lte 33.6 MB, tick 10.0 ms; cellular so far 6.37 GB
+2026-11-05 18:58:04   round 28 20 MB cats8: 2.50 s, rtt 80/102 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 6.37 GB
+2026-11-05 18:58:08   round 28 20 MB mph2-eq: 2.25 s, rtt 80/102 ms, lte 8.1 MB, tick 10.0 ms; cellular so far 6.38 GB
+2026-11-05 18:58:13   round 28 20 MB cats5: 2.67 s, rtt 80/102 ms, lte 11.6 MB, tick 10.0 ms; cellular so far 6.39 GB
+2026-11-05 18:58:17   round 28 20 MB cats6: 2.53 s, rtt 80/102 ms, lte 7.7 MB, tick 10.0 ms; cellular so far 6.40 GB
+2026-11-05 18:58:22   round 28 20 MB plexo: 3.27 s, rtt 80/102 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 6.41 GB
+2026-11-05 18:58:26   round 28 20 MB rb-eq: 2.08 s, rtt 80/102 ms, lte 7.8 MB, tick 10.0 ms; cellular so far 6.42 GB
+2026-11-05 18:58:31   round 28 20 MB twoway-eq: 2.73 s, rtt 80/102 ms, lte 7.7 MB, tick 10.0 ms; cellular so far 6.42 GB
+2026-11-05 18:58:47   round 28 100 MB cats6: 12.16 s, rtt 82/100 ms, lte 28.8 MB, tick 10.0 ms; cellular so far 6.45 GB
+2026-11-05 18:58:59   round 28 100 MB cats5: 9.75 s, rtt 82/100 ms, lte 45.0 MB, tick 10.0 ms; cellular so far 6.50 GB
+2026-11-05 18:59:09   round 28 100 MB cats8: 7.46 s, rtt 82/100 ms, lte 35.0 MB, tick 10.0 ms; cellular so far 6.53 GB
+2026-11-05 18:59:19   round 28 100 MB plexo: 8.65 s, rtt 82/100 ms, lte 41.9 MB, tick 10.0 ms; cellular so far 6.57 GB
+2026-11-05 18:59:31   round 28 100 MB mph2-eq: 9.77 s, rtt 82/100 ms, lte 49.9 MB, tick 10.0 ms; cellular so far 6.62 GB
+2026-11-05 18:59:41   round 28 100 MB twoway-eq: 8.31 s, rtt 82/100 ms, lte 39.2 MB, tick 10.0 ms; cellular so far 6.66 GB
+2026-11-05 18:59:51   round 28 100 MB rb-eq: 7.96 s, rtt 82/100 ms, lte 42.0 MB, tick 10.0 ms; cellular so far 6.71 GB
+2026-11-05 18:59:57   round 29 20 MB cats8: 1.93 s, rtt 81/98 ms, lte 5.7 MB, tick 10.0 ms; cellular so far 6.71 GB
+2026-11-05 19:00:02   round 29 20 MB rb-eq: 2.22 s, rtt 81/98 ms, lte 6.9 MB, tick 10.0 ms; cellular so far 6.72 GB
+2026-11-05 19:00:06   round 29 20 MB cats5: 2.47 s, rtt 81/98 ms, lte 8.6 MB, tick 10.0 ms; cellular so far 6.73 GB
+2026-11-05 19:00:10   round 29 20 MB twoway-eq: 2.33 s, rtt 81/98 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 6.73 GB
+2026-11-05 19:00:15   round 29 20 MB mph2-eq: 2.02 s, rtt 81/98 ms, lte 6.6 MB, tick 10.0 ms; cellular so far 6.74 GB
+2026-11-05 19:00:19   round 29 20 MB plexo: 2.66 s, rtt 81/98 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 6.75 GB
+2026-11-05 19:00:24   round 29 20 MB cats6: 2.95 s, rtt 81/98 ms, lte 3.5 MB, tick 10.0 ms; cellular so far 6.75 GB
+2026-11-05 19:00:37   round 29 100 MB cats5: 8.57 s, rtt 81/97 ms, lte 40.3 MB, tick 10.0 ms; cellular so far 6.79 GB
+2026-11-05 19:00:48   round 29 100 MB plexo: 9.11 s, rtt 81/97 ms, lte 44.0 MB, tick 10.0 ms; cellular so far 6.84 GB
+2026-11-05 19:01:00   round 29 100 MB cats6: 10.06 s, rtt 81/97 ms, lte 34.7 MB, tick 10.0 ms; cellular so far 6.87 GB
+2026-11-05 19:01:12   round 29 100 MB rb-eq: 9.65 s, rtt 81/97 ms, lte 38.3 MB, tick 10.0 ms; cellular so far 6.91 GB
+2026-11-05 19:01:22   round 29 100 MB mph2-eq: 8.62 s, rtt 81/97 ms, lte 32.8 MB, tick 10.0 ms; cellular so far 6.94 GB
+2026-11-05 19:01:35   round 29 100 MB twoway-eq: 10.54 s, rtt 81/97 ms, lte 34.9 MB, tick 10.0 ms; cellular so far 6.98 GB
+2026-11-05 19:01:45   round 29 100 MB cats8: 8.24 s, rtt 81/97 ms, lte 36.7 MB, tick 10.0 ms; cellular so far 7.01 GB
+2026-11-05 19:01:46   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-05 19:01:52   round 30 20 MB plexo: 2.16 s, rtt 81/105 ms, lte 8.4 MB, tick 10.0 ms; cellular so far 7.02 GB
+2026-11-05 19:01:57   round 30 20 MB twoway-eq: 2.77 s, rtt 81/105 ms, lte 5.0 MB, tick 10.0 ms; cellular so far 7.03 GB
+2026-11-05 19:02:01   round 30 20 MB cats8: 2.15 s, rtt 81/105 ms, lte 8.6 MB, tick 10.0 ms; cellular so far 7.04 GB
+2026-11-05 19:02:05   round 30 20 MB rb-eq: 2.08 s, rtt 81/105 ms, lte 7.5 MB, tick 10.0 ms; cellular so far 7.04 GB
+2026-11-05 19:02:09   round 30 20 MB mph2-eq: 2.24 s, rtt 81/105 ms, lte 7.2 MB, tick 10.0 ms; cellular so far 7.05 GB
+2026-11-05 19:02:14   round 30 20 MB cats5: 2.22 s, rtt 81/105 ms, lte 7.3 MB, tick 10.0 ms; cellular so far 7.06 GB
+2026-11-05 19:02:18   round 30 20 MB cats6: 2.66 s, rtt 81/105 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 7.06 GB
+2026-11-05 19:02:24   round 31 20 MB mph2-eq: 1.91 s, rtt 81/101 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 7.07 GB
+2026-11-05 19:02:29   round 31 20 MB plexo: 2.43 s, rtt 81/101 ms, lte 8.4 MB, tick 10.1 ms; cellular so far 7.08 GB
+2026-11-05 19:02:33   round 31 20 MB cats5: 2.38 s, rtt 81/101 ms, lte 7.5 MB, tick 10.0 ms; cellular so far 7.09 GB
+2026-11-05 19:02:37   round 31 20 MB cats8: 2.14 s, rtt 81/101 ms, lte 7.2 MB, tick 10.0 ms; cellular so far 7.09 GB
+2026-11-05 19:02:42   round 31 20 MB cats6: 2.61 s, rtt 81/101 ms, lte 7.4 MB, tick 10.0 ms; cellular so far 7.10 GB
+2026-11-05 19:02:46   round 31 20 MB twoway-eq: 2.51 s, rtt 81/101 ms, lte 8.1 MB, tick 10.0 ms; cellular so far 7.11 GB
+2026-11-05 19:02:51   round 31 20 MB rb-eq: 2.43 s, rtt 81/101 ms, lte 5.9 MB, tick 10.0 ms; cellular so far 7.12 GB
+2026-11-05 19:02:57   round 32 20 MB cats6: 2.51 s, rtt 81/100 ms, lte 8.0 MB, tick 10.0 ms; cellular so far 7.12 GB
+2026-11-05 19:03:02   round 32 20 MB cats5: 2.41 s, rtt 81/100 ms, lte 8.0 MB, tick 10.0 ms; cellular so far 7.13 GB
+2026-11-05 19:03:07   round 32 20 MB mph2-eq: 3.24 s, rtt 81/100 ms, lte 6.5 MB, tick 10.0 ms; cellular so far 7.14 GB
+2026-11-05 19:03:12   round 32 20 MB rb-eq: 2.95 s, rtt 81/100 ms, lte 9.1 MB, tick 10.0 ms; cellular so far 7.15 GB
+2026-11-05 19:03:17   round 32 20 MB plexo: 2.59 s, rtt 81/100 ms, lte 9.0 MB, tick 10.0 ms; cellular so far 7.16 GB
+2026-11-05 19:03:21   round 32 20 MB cats8: 2.51 s, rtt 81/100 ms, lte 7.1 MB, tick 10.0 ms; cellular so far 7.16 GB
+2026-11-05 19:03:25   round 32 20 MB twoway-eq: 2.35 s, rtt 81/100 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 7.17 GB
+2026-11-05 19:03:26 block 4: done; phone so far 8.48 GB
+2026-11-05 19:03:26 block 5 waits until 11-06 00:52
+2026-11-06 00:52:27 block 5: rounds 33-40, try 1, wifi x.x.x.x, phone x.x.x.x
+2026-11-06 00:52:28   public addresses: wifi x.x.x.x, lte x.x.x.x
+2026-11-06 00:52:35   round 33 20 MB cats8: 2.91 s, rtt 83/105 ms, lte 8.1 MB, tick 10.0 ms; cellular so far 7.18 GB
+2026-11-06 00:52:39   round 33 20 MB twoway-eq: 2.46 s, rtt 83/105 ms, lte 6.2 MB, tick 10.0 ms; cellular so far 7.18 GB
+2026-11-06 00:52:43   round 33 20 MB mph2-eq: 2.25 s, rtt 83/105 ms, lte 6.7 MB, tick 10.0 ms; cellular so far 7.19 GB
+2026-11-06 00:52:49   round 33 20 MB plexo: 3.38 s, rtt 83/105 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 7.20 GB
+2026-11-06 00:52:53   round 33 20 MB rb-eq: 2.67 s, rtt 83/105 ms, lte 7.2 MB, tick 10.0 ms; cellular so far 7.21 GB
+2026-11-06 00:52:58   round 33 20 MB cats6: 2.44 s, rtt 83/105 ms, lte 7.3 MB, tick 10.0 ms; cellular so far 7.21 GB
+2026-11-06 00:53:02   round 33 20 MB cats5: 2.42 s, rtt 83/105 ms, lte 8.9 MB, tick 10.1 ms; cellular so far 7.22 GB
+2026-11-06 00:53:16   round 33 100 MB twoway-eq: 9.58 s, rtt 80/98 ms, lte 38.6 MB, tick 10.0 ms; cellular so far 7.26 GB
+2026-11-06 00:53:25   round 33 100 MB cats8: 7.43 s, rtt 80/98 ms, lte 33.0 MB, tick 10.0 ms; cellular so far 7.29 GB
+2026-11-06 00:53:36   round 33 100 MB rb-eq: 8.37 s, rtt 80/98 ms, lte 41.4 MB, tick 10.0 ms; cellular so far 7.34 GB
+2026-11-06 00:53:47   round 33 100 MB cats6: 9.37 s, rtt 80/98 ms, lte 51.4 MB, tick 10.0 ms; cellular so far 7.39 GB
+2026-11-06 00:53:57   round 33 100 MB plexo: 8.04 s, rtt 80/98 ms, lte 48.6 MB, tick 10.0 ms; cellular so far 7.44 GB
+2026-11-06 00:54:10   round 33 100 MB cats5: 10.32 s, rtt 80/98 ms, lte 37.0 MB, tick 10.0 ms; cellular so far 7.47 GB
+2026-11-06 00:54:20   round 33 100 MB mph2-eq: 8.76 s, rtt 80/98 ms, lte 45.7 MB, tick 10.0 ms; cellular so far 7.52 GB
+2026-11-06 00:54:27   round 34 20 MB cats6: 2.47 s, rtt 84/104 ms, lte 6.3 MB, tick 10.0 ms; cellular so far 7.52 GB
+2026-11-06 00:54:31   round 34 20 MB cats5: 2.44 s, rtt 84/104 ms, lte 7.9 MB, tick 10.0 ms; cellular so far 7.53 GB
+2026-11-06 00:54:36   round 34 20 MB rb-eq: 2.17 s, rtt 84/104 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 7.54 GB
+2026-11-06 00:54:40   round 34 20 MB twoway-eq: 2.50 s, rtt 84/104 ms, lte 7.3 MB, tick 10.0 ms; cellular so far 7.55 GB
+2026-11-06 00:54:44   round 34 20 MB plexo: 2.27 s, rtt 84/104 ms, lte 9.5 MB, tick 10.1 ms; cellular so far 7.56 GB
+2026-11-06 00:54:49   round 34 20 MB mph2-eq: 2.15 s, rtt 84/104 ms, lte 7.0 MB, tick 10.0 ms; cellular so far 7.56 GB
+2026-11-06 00:54:53   round 34 20 MB cats8: 2.91 s, rtt 84/104 ms, lte 6.5 MB, tick 10.0 ms; cellular so far 7.57 GB
+2026-11-06 00:55:08   round 34 100 MB cats6: 10.02 s, rtt 84/110 ms, lte 35.7 MB, tick 10.0 ms; cellular so far 7.61 GB
+2026-11-06 00:55:19   round 34 100 MB twoway-eq: 9.48 s, rtt 84/110 ms, lte 52.5 MB, tick 10.0 ms; cellular so far 7.66 GB
+2026-11-06 00:55:30   round 34 100 MB cats5: 9.20 s, rtt 84/110 ms, lte 46.4 MB, tick 10.0 ms; cellular so far 7.70 GB
+2026-11-06 00:55:40   round 34 100 MB cats8: 7.93 s, rtt 84/110 ms, lte 43.0 MB, tick 10.0 ms; cellular so far 7.75 GB
+2026-11-06 00:55:51   round 34 100 MB rb-eq: 8.66 s, rtt 84/110 ms, lte 42.5 MB, tick 10.0 ms; cellular so far 7.79 GB
+2026-11-06 00:56:02   round 34 100 MB mph2-eq: 9.08 s, rtt 84/110 ms, lte 40.0 MB, tick 10.0 ms; cellular so far 7.83 GB
+2026-11-06 00:56:13   round 34 100 MB plexo: 9.33 s, rtt 84/110 ms, lte 42.3 MB, tick 10.0 ms; cellular so far 7.87 GB
+2026-11-06 00:56:21   round 35 20 MB twoway-eq: 3.43 s, rtt 84/104 ms, lte 7.7 MB, tick 10.0 ms; cellular so far 7.88 GB
+2026-11-06 00:56:26   round 35 20 MB rb-eq: 3.21 s, rtt 84/104 ms, lte 6.8 MB, tick 10.0 ms; cellular so far 7.89 GB
+2026-11-06 00:56:30   round 35 20 MB cats6: 2.33 s, rtt 84/104 ms, lte 5.9 MB, tick 10.0 ms; cellular so far 7.89 GB
+2026-11-06 00:56:35   round 35 20 MB cats5: 3.02 s, rtt 84/104 ms, lte 8.4 MB, tick 10.2 ms; cellular so far 7.90 GB
+2026-11-06 00:56:40   round 35 20 MB mph2-eq: 2.58 s, rtt 84/104 ms, lte 7.6 MB, tick 10.0 ms; cellular so far 7.91 GB
+2026-11-06 00:56:45   round 35 20 MB plexo: 3.21 s, rtt 84/104 ms, lte 9.1 MB, tick 10.1 ms; cellular so far 7.92 GB
+2026-11-06 00:56:50   round 35 20 MB cats8: 2.38 s, rtt 84/104 ms, lte 5.4 MB, tick 10.0 ms; cellular so far 7.92 GB
+2026-11-06 00:57:03   round 35 100 MB plexo: 9.10 s, rtt 81/106 ms, lte 41.9 MB, tick 10.0 ms; cellular so far 7.97 GB
+2026-11-06 00:57:14   round 35 100 MB twoway-eq: 9.11 s, rtt 81/106 ms, lte 46.3 MB, tick 10.0 ms; cellular so far 8.01 GB
+2026-11-06 00:57:27   round 35 100 MB cats5: 10.71 s, rtt 81/106 ms, lte 36.1 MB, tick 10.0 ms; cellular so far 8.05 GB
+2026-11-06 00:57:36   round 35 100 MB rb-eq: 7.39 s, rtt 81/106 ms, lte 44.6 MB, tick 10.0 ms; cellular so far 8.09 GB
+2026-11-06 00:57:49   round 35 100 MB cats8: 11.24 s, rtt 81/106 ms, lte 43.1 MB, tick 10.0 ms; cellular so far 8.14 GB
+2026-11-06 00:58:00   round 35 100 MB mph2-eq: 8.91 s, rtt 81/106 ms, lte 36.6 MB, tick 10.0 ms; cellular so far 8.17 GB
+2026-11-06 00:58:10   round 35 100 MB cats6: 7.80 s, rtt 81/106 ms, lte 48.3 MB, tick 10.0 ms; cellular so far 8.22 GB
+2026-11-06 00:58:17   round 36 20 MB twoway-eq: 2.66 s, rtt 83/112 ms, lte 8.6 MB, tick 10.0 ms; cellular so far 8.23 GB
+2026-11-06 00:58:22   round 36 20 MB cats6: 2.46 s, rtt 83/112 ms, lte 6.5 MB, tick 10.0 ms; cellular so far 8.24 GB
+2026-11-06 00:58:27   round 36 20 MB mph2-eq: 2.99 s, rtt 83/112 ms, lte 6.7 MB, tick 10.0 ms; cellular so far 8.24 GB
+2026-11-06 00:58:31   round 36 20 MB cats8: 2.47 s, rtt 83/112 ms, lte 6.5 MB, tick 10.0 ms; cellular so far 8.25 GB
+2026-11-06 00:58:36   round 36 20 MB cats5: 2.43 s, rtt 83/112 ms, lte 8.9 MB, tick 10.1 ms; cellular so far 8.26 GB
+2026-11-06 00:58:40   round 36 20 MB plexo: 2.58 s, rtt 83/112 ms, lte 9.0 MB, tick 10.0 ms; cellular so far 8.27 GB
+2026-11-06 00:58:45   round 36 20 MB rb-eq: 2.22 s, rtt 83/112 ms, lte 8.0 MB, tick 10.0 ms; cellular so far 8.27 GB
+2026-11-06 00:58:56   round 36 100 MB mph2-eq: 6.84 s, rtt 83/110 ms, lte 39.1 MB, tick 10.0 ms; cellular so far 8.31 GB
+2026-11-06 00:59:10   round 36 100 MB twoway-eq: 12.30 s, rtt 83/110 ms, lte 35.6 MB, tick 10.0 ms; cellular so far 8.35 GB
+2026-11-06 00:59:22   round 36 100 MB cats5: 10.08 s, rtt 83/110 ms, lte 45.8 MB, tick 10.0 ms; cellular so far 8.40 GB
+2026-11-06 00:59:33   round 36 100 MB plexo: 9.38 s, rtt 83/110 ms, lte 40.2 MB, tick 10.0 ms; cellular so far 8.44 GB
+2026-11-06 00:59:45   round 36 100 MB cats8: 9.70 s, rtt 83/110 ms, lte 26.0 MB, tick 10.0 ms; cellular so far 8.46 GB
+2026-11-06 00:59:57   round 36 100 MB rb-eq: 10.35 s, rtt 83/110 ms, lte 41.2 MB, tick 10.0 ms; cellular so far 8.50 GB
+2026-11-06 01:00:11   round 36 100 MB cats6: 11.84 s, rtt 83/110 ms, lte 23.8 MB, tick 10.0 ms; cellular so far 8.53 GB
+2026-11-06 01:00:18   round 37 20 MB cats8: 2.41 s, rtt 84/103 ms, lte 5.3 MB, tick 10.0 ms; cellular so far 8.53 GB
+2026-11-06 01:00:23   round 37 20 MB mph2-eq: 3.34 s, rtt 84/103 ms, lte 4.3 MB, tick 10.0 ms; cellular so far 8.54 GB
+2026-11-06 01:00:28   round 37 20 MB cats5: 3.15 s, rtt 84/103 ms, lte 4.9 MB, tick 10.0 ms; cellular so far 8.54 GB
+2026-11-06 01:00:34   round 37 20 MB plexo: 3.19 s, rtt 84/103 ms, lte 7.7 MB, tick 10.0 ms; cellular so far 8.55 GB
+2026-11-06 01:00:38   round 37 20 MB rb-eq: 2.59 s, rtt 84/103 ms, lte 4.1 MB, tick 10.0 ms; cellular so far 8.55 GB
+2026-11-06 01:00:43   round 37 20 MB cats6: 2.76 s, rtt 84/103 ms, lte 3.2 MB, tick 10.0 ms; cellular so far 8.56 GB
+2026-11-06 01:00:48   round 37 20 MB twoway-eq: 3.25 s, rtt 84/103 ms, lte 5.2 MB, tick 10.0 ms; cellular so far 8.56 GB
+2026-11-06 01:01:06   round 37 100 MB twoway-eq: 13.87 s, rtt 83/103 ms, lte 26.2 MB, tick 10.0 ms; cellular so far 8.59 GB
+2026-11-06 01:01:21   round 37 100 MB cats8: 12.85 s, rtt 83/103 ms, lte 22.6 MB, tick 10.0 ms; cellular so far 8.61 GB
+2026-11-06 01:01:35   round 37 100 MB cats5: 11.69 s, rtt 83/103 ms, lte 18.6 MB, tick 10.0 ms; cellular so far 8.63 GB
+2026-11-06 01:01:52   round 37 100 MB plexo: 15.29 s, rtt 83/103 ms, lte 0.0 MB, tick 10.0 ms; cellular so far 8.63 GB
+2026-11-06 01:02:32   round 37 100 MB mph2-eq: 38.20 s, rtt 83/103 ms, lte 0.0 MB, tick 10.0 ms; cellular so far 8.63 GB
+2026-11-06 01:02:50   round 37 100 MB rb-eq: 15.16 s, rtt 83/103 ms, lte 0.0 MB, tick 10.0 ms; cellular so far 8.63 GB
+2026-11-06 01:03:25   round 37 100 MB cats6: 33.31 s, rtt 83/103 ms, lte 0.0 MB, tick 10.0 ms; cellular so far 8.63 GB
+2026-11-06 01:03:35   node:internal/modules/run_main:123
+2026-11-06 01:03:35       triggerUncaughtException(
+2026-11-06 01:03:35       ^
+2026-11-06 01:03:35   System.Management.Automation.RemoteException
+2026-11-06 01:03:35   Error: no answer from x.x.x.x in 10 s
+2026-11-06 01:03:35       at ClientRequest.<anonymous> (file:///cats-sim/src/real/run-wild.ts:170:45)
+2026-11-06 01:03:35       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:03:35       at ClientRequest.emit (node:events:518:28)
+2026-11-06 01:03:35       at Socket.emitRequestTimeout (node:_http_client:863:9)
+2026-11-06 01:03:35       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:03:35       at Socket.emit (node:events:530:35)
+2026-11-06 01:03:35       at Socket._onTimeout (node:net:604:8)
+2026-11-06 01:03:35       at listOnTimeout (node:internal/timers:588:17)
+2026-11-06 01:03:35       at process.processTimers (node:internal/timers:523:7)
+2026-11-06 01:03:35   System.Management.Automation.RemoteException
+2026-11-06 01:03:35   Node.js v22.17.1
+2026-11-06 01:03:35 block 5: stopped with an error
+2026-11-06 01:04:36 block 5: rounds 33-40, try 2, wifi x.x.x.x, phone x.x.x.x
+2026-11-06 01:04:46   node:internal/modules/run_main:123
+2026-11-06 01:04:46       triggerUncaughtException(
+2026-11-06 01:04:46       ^
+2026-11-06 01:04:46   System.Management.Automation.RemoteException
+2026-11-06 01:04:46   Error: no answer from x.x.x.x in 10 s
+2026-11-06 01:04:46       at ClientRequest.<anonymous> (file:///cats-sim/src/real/run-wild.ts:170:45)
+2026-11-06 01:04:46       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:04:46       at ClientRequest.emit (node:events:518:28)
+2026-11-06 01:04:46       at Socket.emitRequestTimeout (node:_http_client:863:9)
+2026-11-06 01:04:46       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:04:46       at Socket.emit (node:events:530:35)
+2026-11-06 01:04:46       at Socket._onTimeout (node:net:604:8)
+2026-11-06 01:04:46       at listOnTimeout (node:internal/timers:588:17)
+2026-11-06 01:04:46       at process.processTimers (node:internal/timers:523:7)
+2026-11-06 01:04:46   System.Management.Automation.RemoteException
+2026-11-06 01:04:46   Node.js v22.17.1
+2026-11-06 01:04:46 block 5: stopped with an error
+2026-11-06 01:05:46 block 5: rounds 33-40, try 3, wifi x.x.x.x, phone x.x.x.x
+2026-11-06 01:05:57   node:internal/modules/run_main:123
+2026-11-06 01:05:57       triggerUncaughtException(
+2026-11-06 01:05:57       ^
+2026-11-06 01:05:57   System.Management.Automation.RemoteException
+2026-11-06 01:05:57   Error: no answer from x.x.x.x in 10 s
+2026-11-06 01:05:57       at ClientRequest.<anonymous> (file:///cats-sim/src/real/run-wild.ts:170:45)
+2026-11-06 01:05:57       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:05:57       at ClientRequest.emit (node:events:518:28)
+2026-11-06 01:05:57       at Socket.emitRequestTimeout (node:_http_client:863:9)
+2026-11-06 01:05:57       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:05:57       at Socket.emit (node:events:530:35)
+2026-11-06 01:05:57       at Socket._onTimeout (node:net:604:8)
+2026-11-06 01:05:57       at listOnTimeout (node:internal/timers:588:17)
+2026-11-06 01:05:57       at process.processTimers (node:internal/timers:523:7)
+2026-11-06 01:05:57   System.Management.Automation.RemoteException
+2026-11-06 01:05:57   Node.js v22.17.1
+2026-11-06 01:05:57 block 5: stopped with an error
+2026-11-06 01:06:57 block 5: rounds 33-40, try 4, wifi x.x.x.x, phone x.x.x.x
+2026-11-06 01:07:08   node:internal/modules/run_main:123
+2026-11-06 01:07:08       triggerUncaughtException(
+2026-11-06 01:07:08       ^
+2026-11-06 01:07:08   System.Management.Automation.RemoteException
+2026-11-06 01:07:08   Error: no answer from x.x.x.x in 10 s
+2026-11-06 01:07:08       at ClientRequest.<anonymous> (file:///cats-sim/src/real/run-wild.ts:170:45)
+2026-11-06 01:07:08       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:07:08       at ClientRequest.emit (node:events:518:28)
+2026-11-06 01:07:08       at Socket.emitRequestTimeout (node:_http_client:863:9)
+2026-11-06 01:07:08       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:07:08       at Socket.emit (node:events:530:35)
+2026-11-06 01:07:08       at Socket._onTimeout (node:net:604:8)
+2026-11-06 01:07:08       at listOnTimeout (node:internal/timers:588:17)
+2026-11-06 01:07:08       at process.processTimers (node:internal/timers:523:7)
+2026-11-06 01:07:08   System.Management.Automation.RemoteException
+2026-11-06 01:07:08   Node.js v22.17.1
+2026-11-06 01:07:08 block 5: stopped with an error
+2026-11-06 01:08:08 block 5: rounds 33-40, try 5, wifi x.x.x.x, phone x.x.x.x
+2026-11-06 01:08:19   node:internal/modules/run_main:123
+2026-11-06 01:08:19       triggerUncaughtException(
+2026-11-06 01:08:19       ^
+2026-11-06 01:08:19   System.Management.Automation.RemoteException
+2026-11-06 01:08:19   Error: no answer from x.x.x.x in 10 s
+2026-11-06 01:08:19       at ClientRequest.<anonymous> (file:///cats-sim/src/real/run-wild.ts:170:45)
+2026-11-06 01:08:19       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:08:19       at ClientRequest.emit (node:events:518:28)
+2026-11-06 01:08:19       at Socket.emitRequestTimeout (node:_http_client:863:9)
+2026-11-06 01:08:19       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:08:19       at Socket.emit (node:events:530:35)
+2026-11-06 01:08:19       at Socket._onTimeout (node:net:604:8)
+2026-11-06 01:08:19       at listOnTimeout (node:internal/timers:588:17)
+2026-11-06 01:08:19       at process.processTimers (node:internal/timers:523:7)
+2026-11-06 01:08:19   System.Management.Automation.RemoteException
+2026-11-06 01:08:19   Node.js v22.17.1
+2026-11-06 01:08:19 block 5: stopped with an error
+2026-11-06 01:09:19 block 5: rounds 33-40, try 6, wifi x.x.x.x, phone x.x.x.x
+2026-11-06 01:09:30   node:internal/modules/run_main:123
+2026-11-06 01:09:30       triggerUncaughtException(
+2026-11-06 01:09:30       ^
+2026-11-06 01:09:30   System.Management.Automation.RemoteException
+2026-11-06 01:09:30   Error: no answer from x.x.x.x in 10 s
+2026-11-06 01:09:30       at ClientRequest.<anonymous> (file:///cats-sim/src/real/run-wild.ts:170:45)
+2026-11-06 01:09:30       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:09:30       at ClientRequest.emit (node:events:518:28)
+2026-11-06 01:09:30       at Socket.emitRequestTimeout (node:_http_client:863:9)
+2026-11-06 01:09:30       at Object.onceWrapper (node:events:632:28)
+2026-11-06 01:09:30       at Socket.emit (node:events:530:35)
+2026-11-06 01:09:30       at Socket._onTimeout (node:net:604:8)
+2026-11-06 01:09:30       at listOnTimeout (node:internal/timers:588:17)
+2026-11-06 01:09:30       at process.processTimers (node:internal/timers:523:7)
+2026-11-06 01:09:30   System.Management.Automation.RemoteException
+2026-11-06 01:09:30   Node.js v22.17.1
+2026-11-06 01:09:30 block 5: stopped with an error
+2026-11-06 01:10:32 analysis exit code 0
+2026-11-06 01:10:32 campaign done; phone 10.13 GB

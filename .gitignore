@@ -1,0 +1,20 @@
+# Real server address and path, kept on this machine only
+wild/private-values.txt
+# Unmasked logs hold this machine's public and local addresses; campaign.masked.log is the copy to share
+results/wild/campaign.log
+results/wild/smoke.log
+
+# Python, Node
+__pycache__/
+*.pyc
+node_modules/
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.out
+*.spl
+
+# Word lock files
+~$*

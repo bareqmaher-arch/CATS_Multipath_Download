@@ -1,0 +1,10 @@
+{
+  "name": "cats-sim",
+  "private": true,
+  "type": "module",
+  "description": "Paired-seed simulator comparing CATS with Plexo's download scheduler",
+  "scripts": {
+    "sim": "node --experimental-strip-types --no-warnings src/run.ts",
+    "check": "node --experimental-strip-types --no-warnings src/check.ts"
+  }
+}
