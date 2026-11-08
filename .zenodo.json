@@ -1,0 +1,24 @@
+{
+  "title": "CATS: code and data for client-side tail scheduling of multi-network HTTP downloads",
+  "description": "Simulator, real-TCP testbed, real-network harness, raw results and analysis scripts behind the manuscript \"Splitting Instead of Copying: Client-Side Tail Scheduling for Multi-Network HTTP Downloads\". The addresses of the server and the client are withheld.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Khudhair, Bareq M.",
+      "affiliation": "General Company for Private Transport Management, Ministry of Transport, Iraq",
+      "orcid": "0009-0005-7600-3667"
+    },
+    {
+      "name": "Al-Amshawi, Mujtaba Z.",
+      "affiliation": "Imam Al-Kadhim University College (IKC), Iraq",
+      "orcid": "0009-0006-3650-9345"
+    },
+    {
+      "name": "Khudhair, Karrar M.",
+      "affiliation": "Imam Al-Kadhim University College (IKC), Iraq; University of Malaga, Spain",
+      "orcid": "0009-0005-9675-1072"
+    }
+  ],
+  "keywords": ["multipath download", "HTTP range requests", "client-side scheduling", "tail latency", "heterogeneous networks"]
+}
